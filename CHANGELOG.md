@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.16.0
+
+* 752995d Actions on this
+* 14b56aa Add inject to AltContainer
+* 653cb29 Add component prop to AltContainer
+* 06838e7 BREAKING: pass in args to constuctors
+* ca2e40e BREAKING: shuffle the brower addons
+* ff9e4dd Allow customizing state prop key
+* 56ede21 Refactor, worth mentioning
+* 8d4ec48 ES5 guide
+* 60c11b6 custom set and get state
+* aedabf4 connectToStores function
+* c91bb1e Override a store name
+* 78f5bc9 ImmutableJS support
+* 21d4d6d Fix context for nested components
+
 ## 0.15.6
 
 * Adding unlisten lifecycle method. [commit](91a67d4)
